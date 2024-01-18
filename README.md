@@ -11,7 +11,7 @@ Welcome to the `pylst` repository! This C program provides a simple implementati
 - [Languages and Utilities Used](#languages-and-utilities-used)
 - [Environments Used](#environments-used)
 - [Data Structures](#data-structures)
-- [Functions and Usage](#functions-and-usage)
+- [Usage](#usage)
 
 ## Why Use This Script
 
