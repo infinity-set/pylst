@@ -25,6 +25,7 @@ Before using this C program, ensure that you have the following:
 - A C compiler installed on your system.
 - Basic understanding of C programming, including linked lists and memory allocation concepts.
 - Review: [Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
+- Review: [Python String Class Implementation in C](https://github.com/infinity-set/pystr)
 
 ## Languages and Utilities Used
 
