@@ -93,13 +93,13 @@ The `main` function in the provided C code demonstrates the creation, appending,
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/pystr/assets/142350896/cacb5493-8531-40ed-91c4-5c308a2bcd04" height="100%" width="100%" alt="Main function code displayed in C"/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/5c705280-2420-4d06-a482-d66f9a423373" height="100%" width="100%" alt="Main function code displayed in C"/>
 <br />   
  </div>
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/pystr/assets/142350896/490d8c2b-570d-4e2a-ab71-fd2a8cff6196" height="100%" width="100%" alt="Output of the execution displayed."/>
+<img src="https://github.com/infinity-set/infinity-set/assets/142350896/a977c400-dcd7-41a0-8b06-1afe7d89f54d" height="100%" width="100%" alt="Output of the execution displayed."/>
 <br />   
  </div>
 
