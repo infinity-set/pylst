@@ -11,6 +11,7 @@ Welcome to the `pylst` repository! This C program provides a simple implementati
 - [Languages and Utilities Used](#languages-and-utilities-used)
 - [Environments Used](#environments-used)
 - [Data Structures](#data-structures)
+- [Functions](#functions)
 - [Usage](#usage)
 
 ## Why Use This Script
@@ -60,7 +61,7 @@ Before using this C program, ensure that you have the following:
 - `lst_node *tail`: Pointer to the tail of the list.
 - `int count`: Number of elements in the list.
 
-## Functions and Usage
+## Functions
 
 ### `pylist_new()`
 
