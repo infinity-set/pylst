@@ -1,4 +1,4 @@
-# pylst - Basic Python-Style List Implementation in C
+# pylst - Python-Style List CLass Implementation in C
 
 ## Overview
 
