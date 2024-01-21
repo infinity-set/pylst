@@ -66,27 +66,34 @@ Before using this C program, ensure that you have the following:
 
 ### `pylist_new()`
 
-Creates a new empty Python-style list.
+- Creates a new empty Python-style list.
+  - Python syntax: `new_list = []`
 
 ### `pylist_append(pylist *self, const char *string)`
 
-Appends a string to the Python-style list.
+- Appends a string to the Python-style list.
+  - Python syntax: `existing_list.append(new_string)`
 
 ### `pylist_print(pylist *self)`
 
-Prints the contents of the Python-style list.
+- Prints the contents of the Python-style list.
+  - Python syntax: `print(existing_list)`
 
 ### `pylist_del(pylist *self)`
 
-Deletes the entire Python-style list.
+- Deletes the entire Python-style list.
+  - Python syntax: Note: Python handles memory management automatically, so no explicit deletion is required.
 
 ### `pylist_len(pylist *self)`
 
-Returns the length of the Python-style list.
+- Returns the length of the Python-style list.
+  - Python syntax: `list_length = len(existing_list)`
 
 ### `pylist_index(pylist *self, const char *string)`
 
-Finds the index of a string in the Python-style list.
+- Finds the index of a string in the Python-style list.
+  - Python syntax: `index = existing_list.index(search_string)`
+
 
 ## Usage
 
